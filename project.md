@@ -1,7 +1,10 @@
 # 120 years of Olympics Games
-Project Datasets: https://www.kaggle.com/heesoo37/120-years-of-olympic-history-athletes-and-results
+Project Datasets: 
+https://www.kaggle.com/heesoo37/120-years-of-olympic-history-athletes-and-results
 https://www.kaggle.com/the-guardian/olympic-games#summer.csv
 
+
+__Halıcıoğlu Data Science Institute__ Caiwei Wang, Jou-Ying Lee
 ## Final Schema Diagram
 
 ### Description of Cleaning/ Preprocessing:
