@@ -6,7 +6,7 @@ https://www.kaggle.com/the-guardian/olympic-games#summer.csv
 
 __Halıcıoğlu Data Science Institute__ Caiwei Wang, Jou-Ying Lee
 ## Final Schema Diagram
-
+![final_schema](final_schema.png)
 ### Description of Cleaning/ Preprocessing:
 
 [P.S. Please see at the end of “Data Cleaning” processes out team’s discussion of information loss]
